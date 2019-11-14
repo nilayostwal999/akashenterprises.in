@@ -1,11 +1,12 @@
 // Template Name: Famie - Farm Services &amp; Organic Food Store Template
 // Template Author: Colorlib
 // Template Author URI: http://colorlib.com
+// Modified and Enhanced By: Nilay Ostwal && Logo By: Pratibha Chouhan
 
 To start 'Gulp' => npm run start
 
 File Structure:
-famie/
+akashenterprises.in/
 └── src/
     ├── css/
     │   ├── animate.css
